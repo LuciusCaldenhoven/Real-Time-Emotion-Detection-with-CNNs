@@ -77,5 +77,5 @@ The project uses data augmentations to improve model generalization. Transformat
 
 See the emotion recognition system in action:
 
-![Demo GIF](demo.gif)
+![Emotion Recognition Demo](demo.gif)
 
