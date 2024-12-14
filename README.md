@@ -1,7 +1,5 @@
 # Real-Time-Emotion-Detection-with-CNNs
 
-# Emotion Recognition System
-
 ## Description
 This project uses a Convolutional Neural Network (CNN) implemented in PyTorch to detect facial emotions in real time. The system consists of two main components:
 
