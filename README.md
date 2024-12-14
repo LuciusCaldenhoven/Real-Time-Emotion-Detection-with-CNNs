@@ -73,9 +73,9 @@ The project uses data augmentations to improve model generalization. Transformat
 - Brightness and contrast adjustments
 - Gaussian blur
 
-## Demo Video
-Watch the demonstration video directly from the repository:
+## Demo
 
-[Demo Video](DEMO.mp4)
+See the emotion recognition system in action:
 
+![Emotion Recognition Demo](demo.gif)
 
