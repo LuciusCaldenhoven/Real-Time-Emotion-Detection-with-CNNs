@@ -76,6 +76,6 @@ The project uses data augmentations to improve model generalization. Transformat
 ## Demo Video
 Watch the demonstration video directly from the repository:
 
-[Demo Video](media/DEMO.mp4)
+[Demo Video](DEMO.mp4)
 
 
